@@ -1,29 +1,39 @@
 <html>
     <head>
         <title> 1  30 </title>
+        <script src="sunrise/sunrise-sunset.js"></script>
         <script src="main.js"></script>
+        <script src="SVG.js"></script>
         <link rel="stylesheet" href="style.css">
-        <link rel="icon" href="icon.png" />
+        <link rel="icon" href="icon1.png" />
         <meta property="og:title" content="1  30" />
         <meta property="og:type" content="website" />
         <meta property="og:image" content="/icon.png" />
-        <meta property="og:description" content="A 1  30" />
+        <meta property="og:description" content="it's 1 30" />
         <meta property="twitter:image:src" content="/icon.png" />
         <meta name="theme-color" content="#000000">
     </head>
-    <body>
+    <body onmousedown="TouchStart()" onmouseup="TouchEnd()">
         
         <div class="Center Containor Square">
+
+
             <div class="Center Clock Square">
             	<svg class="circle_progress" width="120" height="120" viewBox="0 0 120 120">
-                    <circle class="frame" cx="60" cy="60" r="60" stroke-width="0.5" />
-                    <circle class="bar" cx="60" cy="60" r="60" stroke-width="0.5" />
+                    <circle class="frame" cx="60" cy="60" r="60" stroke-width="0.8" />
+                    <circle class="bar" cx="60" cy="60" r="60" stroke-width="0.8" />
+
                 </svg>
 
                 <div class="Time Hour"></div>
                 <div class="Time Minute"></div>
                 <div class="Time Second"></div>
+
+                <!-- <object type="image/svg+xml" data="" class="Day"> -->
+                <!-- <img src="" class="Day"> -->
+                <div class="Day Square"></div>
             </div>
+
         </div>
 
     </body>

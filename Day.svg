@@ -1,0 +1,15 @@
+<?xml-stylesheet type="text/css" href="style.css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="9.35" height="9.352" viewBox="0 0 9.35 9.352" class="DaySvg">
+  <g id="그룹_35" data-name="그룹 35" transform="translate(-333.61 -168.819)">
+    <g id="그룹_34" data-name="그룹 34">
+      <path id="빼기_2" data-name="빼기 2" d="M1.772,3.545A1.772,1.772,0,1,1,3.545,1.772,1.774,1.774,0,0,1,1.772,3.545Z" transform="translate(336.513 171.722)" class="asdf" />
+      <line id="선_3" data-name="선 3" y2="1" transform="translate(338.285 169.069)" stroke-width="0.5"/>
+      <line id="선_4" data-name="선 4" y2="1" transform="translate(338.285 176.921)" stroke-width="0.5"/>
+      <line id="선_5" data-name="선 5" y2="1" transform="translate(342.119 171.282) rotate(60)" stroke-width="0.5"/>
+      <line id="선_6" data-name="선 6" y2="1" transform="translate(335.318 175.208) rotate(60)" stroke-width="0.5"/>
+      <line id="선_7" data-name="선 7" y2="1" transform="translate(342.119 175.708) rotate(120)" stroke-width="0.5"/>
+      <line id="선_8" data-name="선 8" y2="1" transform="translate(335.318 171.782) rotate(120)" stroke-width="0.5"/>
+    </g>
+    <rect id="사각형_1" data-name="사각형 1" width="9.35" height="9.35" transform="translate(333.61 168.82)" fill="rgba(255,255,255,0)"/>
+  </g>
+</svg>
